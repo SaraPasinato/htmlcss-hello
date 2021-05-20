@@ -8,6 +8,8 @@
 body{
     background-color: darkblue;
     color: rgb(1, 227, 91);
+    text-align:center;
+    margin: 100px 100px;
 }
 
 div{
@@ -16,6 +18,5 @@ div{
     margin-top: 15px;
     margin-right: 4px;
     font-size: 14px;
-    text-align:center;
-    margin: 100px 100px;
+  
 }
